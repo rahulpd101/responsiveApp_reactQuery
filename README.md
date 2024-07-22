@@ -9,5 +9,5 @@ npm run dev
 - Pagination
 - CRUD operation
 
-> For more info on TanStack Query/React Query, click here [link](https://tanstack.com/query/latest)
+> For more info on TanStack Query/React Query, click here [link](https://tanstack.com/query/latest).
 > You need to have a backend server with a fake database. I have attached a file **public > db.js** with random data.
